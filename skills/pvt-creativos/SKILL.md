@@ -1,5 +1,5 @@
 ---
-name: creativos
+name: pvt-creativos
 description: Produce las piezas visuales de la pauta y el contenido sin depender de un shooting. Úsala para generar variaciones de anuncios, imágenes de producto en contexto y video corto con IA. Trigger con "necesito creativos", "variaciones del anuncio", "se quemó el creativo", "no tengo material", "video sin grabar".
 ---
 

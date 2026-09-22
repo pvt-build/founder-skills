@@ -1,5 +1,5 @@
 ---
-name: email-marketing
+name: pvt-email-marketing
 description: Construye la lista propia y le vende de nuevo a quien ya compró. Úsala para armar secuencias de recompra, campañas de temporada, lead magnets que capturan correos, y para preparar eventos comerciales con audiencia caliente. Trigger con "email marketing", "secuencia de correos", "recompra", "lead magnet", "campaña de cyber", "vender a los que ya compraron".
 ---
 

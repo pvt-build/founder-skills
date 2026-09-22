@@ -1,5 +1,5 @@
 ---
-name: growth-engine
+name: pvt-growth-engine
 description: Es la skill que ordena a las demás. Diagnostica dónde está el cuello del negocio hoy y decide en qué trabajar esta semana, en vez de avanzar en todo a la vez. Úsala cuando no sepas por dónde partir, cuando todo parezca urgente, o antes de abrir cualquier frente nuevo. Trigger con "por dónde parto", "en qué me enfoco", "qué hago esta semana", "dónde está el cuello", "todo es urgente".
 ---
 

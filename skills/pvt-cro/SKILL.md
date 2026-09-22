@@ -1,5 +1,5 @@
 ---
-name: cro
+name: pvt-cro
 description: Sube el porcentaje de visitas que terminan en compra, sin gastar un peso más en tráfico. Úsala para diagnosticar dónde se cae el visitante, rediseñar fichas de producto, arreglar el checkout y priorizar qué se toca primero. Trigger con "no me compran en la web", "Add-to-Cart bajo", "arreglar el checkout", "por qué entran y no compran", "mejorar la ficha de producto".
 ---
 

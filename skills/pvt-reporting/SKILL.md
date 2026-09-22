@@ -1,5 +1,5 @@
 ---
-name: reporting
+name: pvt-reporting
 description: Convierte los números sueltos del mes en una lectura que permite decidir. Úsala para armar el reporte semanal o mensual, comparar contra el mismo mes del año anterior, y separar la métrica que manda de la que solo hace ruido. Trigger con "arma el reporte", "cómo cerró el mes", "compara contra el año pasado", "qué números miro".
 ---
 

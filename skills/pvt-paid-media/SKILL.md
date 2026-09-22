@@ -1,5 +1,5 @@
 ---
-name: paid-media
+name: pvt-paid-media
 description: Opera la pauta de Meta como sistema, no como gasto. Úsala para revisar rendimiento semanal, decidir si subir o bajar presupuesto, separar campañas por objetivo, y detectar cuándo el gasto está comprando el tipo de cliente equivocado. Trigger con "cómo va la pauta", "subo el presupuesto", "esta campaña rinde", "cuánto me cuesta traer una cita", "separar campañas".
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: seo
+name: pvt-seo
 description: Escribe y estructura contenido que Google encuentra, organizado por el dolor con el que la clienta busca, no por la categoría del producto. Úsala para planificar artículos, escribir fichas de producto que posicionen, y decidir qué se escribe primero. Trigger con "artículos SEO", "cómo posiciono", "qué escribo en el blog", "descripción de producto", "que me encuentren en Google".
 ---
 
