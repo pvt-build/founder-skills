@@ -57,7 +57,6 @@ resolviendo cuando la abres, no solo qué hace.
 | Skill | Para qué sirve | Estado |
 |---|---|---|
 | **`pvt-seo`** | Contenido que te encuentra gente nueva, organizado por dolor de búsqueda | Lista |
-| **`pvt-retention`** | Hace que tus reels se vean hasta el final: descompone virales y revisa tu guion antes de grabar | Lista |
 | **`pvt-email-marketing`** | Construye la lista propia y le vende de nuevo a quien ya compró | Lista |
 | **`pvt-creativos`** | Piezas de pauta sin depender de un shooting | En construcción |
 
